@@ -31,7 +31,7 @@ export default function AboutPage() {
         </p>
         <h2 className="text-2xl font-semibold mt-8 mb-4">Sustainability</h2>
         <p>
-          Sustainability is at the core of TerraMind's mission. We aim to empower mining operations with the insights needed to make environmentally responsible decisions.  Our platform's sustainability score, derived from advanced analysis and forecasting, provides a clear metric for evaluating the environmental impact of mining activities over time. We are committed to promoting sustainable practices within the mining industry through data-driven decision-making.
+          Sustainability is at the core of TerraMind&apos;s mission. We aim to empower mining operations with the insights needed to make environmentally responsible decisions.  Our platform&apos;s sustainability score, derived from advanced analysis and forecasting, provides a clear metric for evaluating the environmental impact of mining activities over time. We are committed to promoting sustainable practices within the mining industry through data-driven decision-making.
         </p>
       </div>
     </div>
